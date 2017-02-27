@@ -36,15 +36,15 @@
 
 ### software
 
-1. install and configure a text editor (sublime or notepad)
-1. download + install sumatrapdf
+1. [download + install sumatrapdf](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+1. [download + install 7zip](http://www.7-zip.org/download.html)
 
 #### Media Center PC
-1. download + install [vlc](http://www.videolan.org/vlc/index.html)
-1. download + install NP++
+1. [download + install vlc](http://www.videolan.org/vlc/index.html)
+1. [download + install NP++](https://notepad-plus-plus.org/download/)
 
 #### Coding PC
-1. download + install sublime
+1. [download + install sublime](https://www.sublimetext.com/3)
 
 ## after update
 
