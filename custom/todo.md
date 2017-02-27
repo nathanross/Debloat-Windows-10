@@ -40,7 +40,7 @@
 1. download + install sumatrapdf
 
 #### Media Center PC
-1. download + install vlc
+1. download + install [vlc](http://www.videolan.org/vlc/index.html)
 1. download + install NP++
 
 #### Coding PC
