@@ -39,11 +39,11 @@
 1. install and configure a text editor (sublime or notepad)
 1. download + install sumatrapdf
 
-### Media Center PC
+#### Media Center PC
 1. download + install vlc
 1. download + install NP++
 
-### Coding PC
+#### Coding PC
 1. download + install sublime
 
 ## after update
