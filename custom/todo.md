@@ -45,3 +45,13 @@
 1. restart
 1. read the README in the parent dir for instructions on running scripts
 1. run each script in the 'scripts' directory.
+
+## configuring software
+
+### sublime
+
+1. install package control
+1. install autospell
+1. install lightning
+1. install whitespace
+1. copy over configuration files into ```AppData/Roaming/SublimeText3```
