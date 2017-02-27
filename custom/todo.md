@@ -8,6 +8,7 @@
 1. start up windows update
 1. authenticate with lastpass
 1. navigate to this repo
+1. download, unzip, and install dvorak num switch, set it as the default keyboard in the 'languages' setting
 
 ## while updating
 
@@ -29,3 +30,8 @@
 1. download + install vlc
 1. download + install sumatrapdf
 
+## after update
+
+1. restart
+1. read the README in the parent dir for instructions on running scripts
+1. run each script in the 'scripts' directory.
