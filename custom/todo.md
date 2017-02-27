@@ -13,8 +13,8 @@
 
 ### ui - taskbar
 
-1. set taskbar icons to small
-1. set cortana search to be an icon
+1. set taskbar icons to small..
+1. set cortana search to be an icon - right click search bar -> cortana -> show cortana icon
 1. open cortana search, click the three lines then the setting icon, and disable web search
 
 ### other
