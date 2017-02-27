@@ -1,0 +1,10 @@
+{
+  "default_triggers": [
+    " "
+  ],
+  "default_replacements": {
+  	"att": "<aura:attribute name=\"\" type=\"\" access=\"\"\n        description=\"\"/>",
+  	"aui": "<aura:handler name=\"init\" value=\"{!this}\" action=\"{!c.init}\"/>",
+    "c.l": "console.log(JSON.stringify());"
+  }
+}
