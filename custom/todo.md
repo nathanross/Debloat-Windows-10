@@ -15,7 +15,9 @@
 
 1. set taskbar icons to small..
 1. set cortana search to be an icon - right click search bar -> cortana -> show cortana icon
-1. open cortana search, click the three lines then the setting icon, and disable web search
+1. in cortana settings: (open cortana search, click the settings wheel on the left)
+    1. Lock screen (use even when my screen is locked) - OFF
+    1. Taskbar Tidbits (cortana popup ads) - OFF
 
 ### other
 
