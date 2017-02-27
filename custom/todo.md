@@ -28,7 +28,12 @@
 1. services console - disable Windows Search service, and SuperFetch service
 1. in administrative settings:
     1. "Computer Configuration -> Administrative Templates -> Windows Components -> Search -> Do not allow Web Search : ENABLED"
-    
+1. cortana search 'appearance and performance' -> click first result
+    1. click "Adjust for best performance"
+    1. click "custom"
+    1. check "Enable Peek"
+    1. check "Show window contents while dragging"
+
 ### software
 
 1. install and configure a text editor (sublime or notepad)
