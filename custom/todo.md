@@ -33,6 +33,7 @@
     1. click "custom"
     1. check "Enable Peek"
     1. check "Show window contents while dragging"
+1. adjust date/time to current timezone
 
 ### software
 
@@ -42,6 +43,9 @@
 #### Media Center PC
 1. [download + install vlc](http://www.videolan.org/vlc/index.html)
 1. [download + install NP++](https://notepad-plus-plus.org/download/)
+    1. default spacing 4 spaces
+    1. dark color theme
+    1. use left nav bar, hide tab bar
 
 #### Coding PC
 1. [download + install sublime](https://www.sublimetext.com/3)
