@@ -43,6 +43,8 @@
 #### Media Center PC
 1. [download + install vlc](http://www.videolan.org/vlc/index.html)
 1. [download + install NP++](https://notepad-plus-plus.org/download/)
+1. install dragon naturally speaking (search nuance and see tech support email for download and license link)
+1. install Innoetics TTS (go to website->shop->download US 2 voices. Search email for 'innoetics' for license.)
 
 #### Coding PC
 1. [download + install sublime](https://www.sublimetext.com/3)
