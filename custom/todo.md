@@ -9,6 +9,7 @@
 1. authenticate with lastpass
 1. navigate to this repo
 1. download, unzip, and install dvorak num switch, set it as the default keyboard in the 'languages' setting
+1. download and run all registry edit files.
 
 ## while updating
 
@@ -25,7 +26,9 @@
 ### other
 
 1. services console - disable Windows Search service, and SuperFetch service
-
+1. in administrative settings:
+    1. "Computer Configuration -> Administrative Templates -> Windows Components -> Search -> Do not allow Web Search : ENABLED"
+    
 ### software
 
 1. install and configure a text editor (sublime or notepad)
