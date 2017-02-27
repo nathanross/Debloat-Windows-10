@@ -43,23 +43,9 @@
 #### Media Center PC
 1. [download + install vlc](http://www.videolan.org/vlc/index.html)
 1. [download + install NP++](https://notepad-plus-plus.org/download/)
-    1. default spacing 4 spaces
-    1. dark color theme
-    1. use left nav bar, hide tab bar
 
 #### Coding PC
 1. [download + install sublime](https://www.sublimetext.com/3)
-
-## Windows subsystem for linux
-
-1. search for developer, enable developer mode
-1. search for add features, enable windows subsystem for linux
-1. restart
-1. type bash in a new powershell prompt
-1. wait for download, set a username and password
-1. apt-get -y update
-1. apt-get -y upgrade
-1. apt-get install -y git
 
 ## after update
 
@@ -69,6 +55,11 @@
 
 ## configuring software
 
+### Notepad++
+1. default spacing 4 spaces
+1. dark color theme
+1. use left nav bar, hide tab bar
+
 ### sublime
 
 1. install package control
@@ -76,3 +67,20 @@
 1. install lightning
 1. install whitespace
 1. copy over configuration files into ```AppData/Roaming/SublimeText3```
+
+## bitlocker
+
+1. (if applicable) to enable use without TPM: Local Computer Policy > Computer Configuration > Administrative Templates > Windows Components > BitLocker Drive Encryption > Operating System Drives -> require additional authentication at startup: ENABLED
+
+## faronix deepfreeze
+
+## Windows subsystem for linux (after "creator" update)
+
+1. search for developer, enable developer mode
+1. search for add features, enable windows subsystem for linux
+1. restart
+1. type bash in a new powershell prompt
+1. wait for download, set a username and password
+1. apt-get -y update
+1. apt-get -y upgrade
+1. apt-get install -y git
