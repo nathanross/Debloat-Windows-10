@@ -46,6 +46,17 @@
 #### Coding PC
 1. [download + install sublime](https://www.sublimetext.com/3)
 
+## Windows subsystem for linux
+
+1. search for developer, enable developer mode
+1. search for add features, enable windows subsystem for linux
+1. restart
+1. type bash in a new powershell prompt
+1. wait for download, set a username and password
+1. apt-get -y update
+1. apt-get -y upgrade
+1. apt-get install -y git
+
 ## after update
 
 1. restart
