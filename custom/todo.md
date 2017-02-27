@@ -24,7 +24,7 @@
 
 ### other
 
-1. services console - disable Windows Search service
+1. services console - disable Windows Search service, and SuperFetch service
 
 ### software
 
