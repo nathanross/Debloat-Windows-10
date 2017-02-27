@@ -14,7 +14,9 @@
 
 ### ui - taskbar
 
-1. set taskbar icons to small..
+1. right click taskbar -> settings:
+    1. use small taskbar buttons - ON
+    1. replace command prompt with powershell on right click start - ON
 1. set cortana search to be an icon - right click search bar -> cortana -> show cortana icon
 1. in cortana settings: (open cortana search, click the settings wheel on the left)
     1. Lock screen (use even when my screen is locked) - OFF
